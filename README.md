@@ -199,7 +199,7 @@ etapas acendem em sequência (desktop) ou conforme a rolagem (tablet e celular).
 
 ---
 
-## 7. Pontos para decisão do Victor
+## 7. Pontos para decisão do Victor 
 
 - **"Mais de 4 anos de experiência":** o texto foi mantido conforme o briefing. O documento de
   posicionamento registra esse número como ponto em aberto (cerca de 3 anos e 8 meses até mar/2026).

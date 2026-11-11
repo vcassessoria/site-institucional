@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vcassessoria.github.io/site-institucional/sitemap.xml
